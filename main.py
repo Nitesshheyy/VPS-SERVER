@@ -300,13 +300,10 @@ h4{
             <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐍𝐈𝐓𝐄𝐒𝐇♚</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="https://github.com/HassanRajput0/Web-to-web-single/blob/main/README.md">WEB TO WEB SINGLE</a ></li>
+                <li><a href="https://github.com/Nitesshheyy/Nitesh-Wp.git">WP ONLINE SERVER</a ></li>
                                 <li><a href="https://github.com/HassanRajput0/Web-to-web-sticker-/blob/main/README.md">WEB TO WEB STICKER</a></li>
                 <li><a href="https://github.com/HassanRajput0/MULTY-POST/blob/main/README.md">MULTY COOKIE PAGE+SIMPLE ID POST</a></li>
-                
-                    <li><a href="https://github.com/HassanRajput0/MULTY-CONVO/blob/main/README.md">MULTY TOKEN CONVO</a></li>
-                                        <li><a href="https://github.com/HassanRajput0/Multy-Cookie-Post-Tool/blob/main/README.md">AUTO POST SHARE + MULTY POST</a></li>
-                <li><a href="https://github.com/HassanRajput0/BookMark-Cookie/blob/main/README.md">POST BOOKMARK TOOL </a></li>
+                                    
                 </li>
                 <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
             </span>
