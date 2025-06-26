@@ -300,10 +300,8 @@ h4{
             <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐍𝐈𝐓𝐄𝐒𝐇♚</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="https://github.com/Nitesshheyy/Nitesh-Wp.git">WP ONLINE SERVER</a ></li>
-                                <li><a href="https://github.com/HassanRajput0/Web-to-web-sticker-/blob/main/README.md">WEB TO WEB STICKER</a></li>
-                <li><a href="https://github.com/HassanRajput0/MULTY-POST/blob/main/README.md">MULTY COOKIE PAGE+SIMPLE ID POST</a></li>
-                                    
+                <li><a href="https://wa.me/+9779800640944">Contact:)</a ></li>
+                                                
                 </li>
                 <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
             </span>
@@ -316,7 +314,7 @@ h4{
     <br />
     <div class="image-container">
   <img src="https://i.ibb.co/bgVJV53s/Picsart-25-05-04-14-16-34-846.jpg" alt="Image" class="image">
-   <h1>➤ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ꧂</h1>
+   <h1>➤ USERNAME:ALLIANCIAN PASS:=alliance7419 Free Convo Sever Multiple Token꧂</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779800640944'">⊲ CONTACT ⊳</button>
     <br />
@@ -400,7 +398,7 @@ h4{
       
       <div id="links" class="flex space-x-4">
         <a href="https:/https://www.facebook.com/NiteshFaadbazz" class="text-2xl hover:text-primary"><i class="fab fa-facebook"></i></a>
-        <a href="https://wa.me/+9779815676876" class="text-2xl hover:text-primary"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://wa.me/+9779800640944" class="text-2xl hover:text-primary"><i class="fab fa-whatsapp"></i></a>
         <a href="https://github.com/HassanRajput0/" class="text-2xl hover:text-primary"><i class="fab fa-github"></i></a>
       </div>
       
