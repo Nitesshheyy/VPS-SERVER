@@ -379,7 +379,7 @@ h4{
  <img src="https://imagesaver.darkester.online/uploads/1750971336-1000008940.jpg" alt="Image" class="image">
      <h1>➤WhatsApp Cred.json Generator꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://creds-6mgr.onrender.com'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://get-wp-creds-json-and-access-token.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
       <img src="https://imagesaver.darkester.online/uploads/1751128566-1000176891.jpg" alt="Image" class="image">
