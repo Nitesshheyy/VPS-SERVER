@@ -370,9 +370,9 @@ h4{
     <br />
           <div class="imager">
  <img src="https://imagesaver.darkester.online/uploads/1750970878-1000036627.jpg" alt="Image" class="image">
- <h1>➤ WHATAPP OFFLINE SERVER @ᴍᴀᴅᴇ ʙʏ Knight bot꧂</h1>
+ <h1>➤ WHATAPP OFFLINE SERVER @ɴɪᴛᴇꜱʜ 2024꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://wp-auto-sender-3d9n.onrender.com/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://wp-offline-server.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
