@@ -382,7 +382,7 @@ h4{
  <button class="button-34" role="button" onclick="window.location.href='https://creds-6mgr.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
-          <https://imagesaver.darkester.online/uploads/1751128566-1000176891.jpg" alt="Image" class="image">
+      <img src="<https://imagesaver.darkester.online/uploads/1751128566-1000176891.jpg" alt="Image" class="image">
      <h1>➤𝐖𝐩 𝐆𝐜 𝐔𝐢𝐝 𝐓𝐨𝐨𝐥꧂</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://wp-gid-fetcher-by-tabbu.onrender.com'">⊲ CHECK ⊳</button>
